@@ -1,4 +1,4 @@
-# 🎬 MMART 9A - Video Production I (Fall 2025)
+# 🎬 MM/VI 9A - Video Production I (Fall 2025)
 
 This repository is dedicated to my coursework for MM/VI 9A at Berkeley City College with Professor Kelly Whalen.
 
