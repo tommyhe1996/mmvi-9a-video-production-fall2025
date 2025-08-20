@@ -1,0 +1,69 @@
+# === macOS System Files ===
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# === Node / VS Code Cache (if using Code for notes) ===
+node_modules/
+.vscode/
+*.code-workspace
+
+# === Celtx Script Auto-Backups ===
+*.celtx~
+
+# === Adobe Premiere Pro and Auto Saves ===
+*.prproj
+*.pek
+*.cfa
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.aiff
+*.mp3
+*.m4a
+*.flac
+
+# === Video Edits and Renders ===
+*.render
+*.preview
+*.export
+*.log
+*.tmp
+
+# === Google Drive or Cloud Sync ===
+*.gdoc
+*.gsheet
+*.gsform
+*.gslides
+*.gdraw
+
+# === Personal Backups ===
+backup/
+*.bak
+*.old
+*.tmp
+
+# === Thumbnails and Cache ===
+Thumbs.db
+ehthumbs.db
+
+# === OS Trash ===
+.Trashes
+.Spotlight-V100
+.fseventsd
+
+# === Optional: Ignore your SSD drive mount if copied ===
+/Volumes/SSD*/
+
+# === Log files ===
+*.log
+
+# === PDF & DOC exports (optional) ===
+*.pdf
+*.docx
+*.pages
+*.xlsx
