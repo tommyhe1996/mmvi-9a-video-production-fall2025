@@ -36,3 +36,26 @@ How do professional boom operators balance holding the mic close enough for clea
 
 ### 3. Shout-Out  
 I want to give a shout-out to Alex, our director of photography. He was very patient in explaining the camera’s framing to me so I could better position the boom and avoid crossing into the shot. His clear communication made my job much easier. 
+
+---
+```
+
+shoot-evaluations-repo/
+│
+├── README.md                  # Overview & instructions
+├── CONTRIBUTING.md             # Guidelines for filling & submitting evaluations
+├── CODE_OF_CONDUCT.md          # Classroom respect and behavior rules
+├── LICENSE.md                  # MIT open-source license
+├── PROJECT_BOARD.md            # Task board to track 5 required evaluations
+│
+├── templates/                  # Blank templates to use
+│   ├── Shoot_Evaluations_Template.pdf
+│   └── Shoot_Evaluations_Template.md
+│
+├── examples/                   # Sample completed evaluation
+│   └── Completed_Evaluation_Example.md
+│
+└── submissions/                # Place your own completed evaluations here
+    └── evaluation-1-sample.md
+```
+---
