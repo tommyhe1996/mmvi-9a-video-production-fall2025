@@ -1,0 +1,262 @@
+# Midterm Pre‑Production Packet — MM/VI 9A Video Production (Fall 2025)
+
+> **Project Title:** *Quiet Nerves*
+> **Scene:** INT. LIBRARY — DAY
+> **Director:** Zhonghuang “Tommy” He
+> **Latest Update:** <!-- YYYY‑MM‑DD --> 2025-10-15
+> **Target Runtime:** ~60 seconds
+> **Shot Count:** 10–12 (max 15)
+
+This packet gathers all deliverables requested for the MM/VI 9A midterm: revised script (≤2 pages), storyboards (10–12 shots), shot list, overhead(s), script breakdown, schedule, call sheet, continuity notes, gear list, risk & accessibility plan, and submission checklist.
+
+---
+
+## 0) Quick Reference & Turn‑In
+
+* **Turn‑in format:** Single PDF export named `midterm-packet-mmvi-9a-video-production-fall2025.pdf` plus your revised script PDF.
+* **Repository file:** `midterm-packet-mmvi-9a-video-production-fall2025.md` (this file).
+* **Keep shots ≤ 15** and ensure clear screen direction (180° rule), consistent lighting, and continuity.
+
+**Folder suggestion (GitHub):**
+
+```
+mmvi-9a-video-production-fall2025/
+├─ docs/
+│  ├─ midterm-packet-mmvi-9a-video-production-fall2025.md
+│  ├─ storyboards/
+│  │  ├─ 01A.png … 12L.png
+│  ├─ overheads/
+│  │  ├─ library_overhead_v1.pdf
+│  └─ breakdown/
+│     ├─ script_breakdown.xlsx
+├─ script/
+│  └─ Quiet_Nerves_Revised.pdf
+└─ assets/
+   └─ refs/
+```
+
+---
+
+## 1) Revised Script (≤2 pages, correctly formatted)
+
+> **Working logline:** In a quiet morning library, a stressed student’s dropped pencil becomes an unexpected bridge to connection.
+
+**Script export:** `script/Quiet_Nerves_Revised.pdf`
+**Formatting:** Celtx screenplay format (INT./EXT., DAY/NIGHT, action lines concise, no camera directions).
+
+**Example opening (for reference only, not a replacement for the full script):**
+
+```
+INT. LIBRARY – DAY
+
+Rows of shelves. A hush. CHARTREUSE (20s), anxious, hunches over notes. Across the room, MAPLE (20s), calm, studies.
+
+A pencil slips from CHARTREUSE’s fingers. CLATTER. Heads lift. Silence returns.
+```
+
+---
+
+## 2) Storyboards (10–12 panels)
+
+Create simple, clear frames showing composition and screen direction. Use arrows for movement. Label each with **Scene–Shot ID**, **Size**, **Angle**, **Action**.
+
+**Panel list (reference blueprint):**
+
+1. **1A – WS**: Reading room geography; establish Chartreuse (L) and Maple (R).
+2. **1B – MS (Chartreuse)**: Hunched posture, cluttered desk; breathes out.
+3. **1C – MS (Maple)**: Calm, neat desk; page turn.
+4. **1D – MCU (Chartreuse)**: Glance toward Maple; looks away.
+5. **1E – OTS Chartreuse → Maple, MS**: Contrast of desks.
+6. **1F – ECU (Pencil/Hand)**: Fingers slip; pencil drops.
+7. **1G – CU (Both bend)**: Simultaneous bend; brief eye contact; small smile.
+8. **1H – INSERT (Pencil stop)**: Pencil spins, comes to rest between them.
+9. **1J – MCU (Maple)**: Warm, kind smile; offers pencil.
+10. **1K – MCU (Chartreuse)**: Receives pencil; exhales tension.
+11. **1L – 2-SHOT MS**: Shared small laugh; ambient quiet returns.
+12. **1M – WS**: Re‑establish; calmer posture; visual echo of shot 1.
+
+> Replace with your final 10–12; you can drop two panels if needed.
+
+---
+
+## 3) Shot List (production‑ready)
+
+> **Legend:** WS, MS, MCU, CU, ECU, **INSERT**; Angles: Eye, Low, High; Movement: Static, Pan, Tilt, Push‑in, Pull‑back, Track.
+
+|  # | Scene | Shot ID |    Size   | Angle | Lens |       Move      | Subject        | Action/Beat                                | Sound        | Time | Notes                   |
+| -: | :---: | :-----: | :-------: | :---: | :--: | :-------------: | :------------- | :----------------------------------------- | :----------- | :--: | :---------------------- |
+|  1 |   1   |    1A   |     WS    |  Eye  | 24mm |      Static     | Room           | Establish geography; Chartreuse L, Maple R | Room tone    |  AM  | Maintain 180° line      |
+|  2 |   1   |    1B   |     MS    |  Eye  | 35mm |      Static     | Chartreuse     | Hunched, rubs temples                      | Cloth rustle |  AM  | Messy desk continuity   |
+|  3 |   1   |    1C   |     MS    |  Eye  | 50mm |      Static     | Maple          | Calm page turn                             | Soft page    |  AM  | Pink sweater continuity |
+|  4 |   1   |    1D   |    MCU    |  Eye  | 50mm | Push‑in (short) | Chartreuse     | Quick glance; looks away                   | Breath       |  AM  | Eye‑line to R           |
+|  5 |   1   |    1E   |   MS OTS  |  Eye  | 35mm |      Static     | OTS Chrt→Maple | Contrast desks                             | Room tone    |  AM  | Maintain shoulder match |
+|  6 |   1   |    1F   |    ECU    |  High | 85mm |      Static     | Pencil/Hand    | Slip & drop                                | CLATTER      |  AM  | Safety for drop         |
+|  7 |   1   |    1G   |   CU 2T   |  Eye  | 50mm |      Static     | Both           | Bend + eye contact                         | Breath       |  AM  | Split focus acceptable  |
+|  8 |   1   |    1H   |   INSERT  |  Eye  | 85mm |      Static     | Pencil         | Spin → stop                                | Pencil roll  |  AM  | Mark landing spot       |
+|  9 |   1   |    1J   |    MCU    |  Eye  | 50mm |      Static     | Maple          | Offers pencil                              | Soft         |  AM  | Smile continuity        |
+| 10 |   1   |    1K   |    MCU    |  Eye  | 50mm |      Static     | Chartreuse     | Takes pencil; exhales                      | Breath       |  AM  | Hand continuity         |
+| 11 |   1   |    1L   | MS 2‑shot |  Eye  | 35mm |      Static     | Both           | Tiny laugh; reset                          | Room tone    |  AM  | Match eyelines          |
+| 12 |   1   |    1M   |     WS    |  Eye  | 24mm |      Static     | Room           | Re‑establish calmer tableau                | Room tone    |  AM  | Mirrors 1A              |
+
+> **Coverage safety:** Capture 5‑10s handles before/after action. Slate clearly.
+
+---
+
+## 4) Overhead / Bird’s‑Eye Diagrams
+
+Include top‑down maps of the library space with key furniture, entrances, and **camera positions numbered**. Use arrows for **character paths** and **camera moves**; mark the **180° line**.
+
+**Files:** `docs/overheads/library_overhead_v1.pdf`
+**Keys:**
+
+* Circles with initials: **C** (Chartreuse), **M** (Maple).
+* Triangles with numbers: **Cam1…CamN**.
+* Arrows: character movement; dashed arrows: camera movement.
+* Shaded windows indicate primary light direction.
+
+---
+
+## 5) Script Breakdown (by scene)
+
+| Category     | Items                                                           |
+| ------------ | --------------------------------------------------------------- |
+| Cast         | Chartreuse (primary), Maple (primary)                           |
+| Extras       | 2–4 quiet students (BG)                                         |
+| Props        | Pencil (x3 match), textbooks, notebooks, backpack, water bottle |
+| Set Dressing | Library tables, chairs, shelves, desk lamps                     |
+| Wardrobe     | Chartreuse: neutral sweater; Maple: pink sweater (key color)    |
+| Hair/Makeup  | Natural; anti‑shine kit                                         |
+| Sound        | Room tone capture; pencil drop FX; page turn                    |
+| Special      | None                                                            |
+| SFX/VFX      | None                                                            |
+| Safety       | Clear floor; safe “pencil drop” zone                            |
+| Continuity   | Desk clutter levels A/B; pencil state; posture; sweater sleeves |
+| Time         | Day                                                             |
+| Pages        | ~1 page (of the 2pp max)                                        |
+
+> Create one row per scene if you add scenes. Export as CSV/XLSX if preferred.
+
+---
+
+## 6) Schedule & Shot Order (Company Move: None)
+
+**Location:** Campus Library, Reading Room A
+**Date:** <!-- YYYY‑MM‑DD --> 2025-10-__
+**Crew Call:** 09:00
+**Shoot Window:** 10:00–13:00
+**Meal/Break:** 11:30–12:00 (quiet snack off‑floor)
+**Wrap:** 13:00
+
+**Shot Order (optimize lighting & eyelines):** 1A → 1M (bookend WS), then 1B/1D/1E (Chartreuse angle), 1C/1J (Maple angle), 1F/1H (inserts), 1G/1L (two‑shots), 1K (reaction).
+
+**Time Estimates:** Avg 10 minutes setup per shot; inserts 5 minutes.
+
+---
+
+## 7) Call Sheet (Template)
+
+**Project:** *Quiet Nerves* | **Date:** 2025-10-__ | **Crew Call:** 09:00
+**Location:** Library Reading Room A (Floor __). **Parking/Access:** __
+**Emergency:** 911; Campus Security: __; First Aid Kit: with Producer.
+
+**Cast**
+
+* Chartreuse — Name, phone, call 10:00
+* Maple — Name, phone, call 10:00
+
+**Crew**
+
+* Director: Zhonghuang He
+* Producer / UPM: __
+* Cam Op / DP: __
+* 1st AC / Media: __
+* Sound: __
+* Script Supervisor: __
+* PA: __
+
+**Weather:** Indoor shoot; check exterior light spill.
+**Notes:** Maintain library etiquette; minimal chatter; hand signals when rolling.
+
+---
+
+## 8) Continuity Log (On Set)
+
+| Shot | Take | Start Props/Set | Action Changes | Wardrobe State  | Notes |
+| ---: | ---: | --------------- | -------------- | --------------- | ----- |
+|   1B |   T1 | Desk clutter A  | None           | Sleeves rolled? | Good  |
+|   1B |   T2 | Desk clutter A  | Breath longer  | Sleeves same    | Print |
+|    … |    … | …               | …              | …               | …     |
+
+**Polaroids/Phone Refs:** Wide of desk (state A/B), close of pencil, sweater sleeves, hair.
+
+---
+
+## 9) Gear List & Settings
+
+**Camera:** Mirrorless/DSLR (4K 24fps), Tripod, Fluid head, Optional slider.
+**Lenses:** 24/35/50/85mm (or equivalents).
+**Sound:** Shotgun on‑camera for reference + room tone; optional lav for foley.
+**Lighting:** Practical desk lamps; optional 1x LED panel bounced; white card.
+
+**Base Settings:**
+
+* 4K 24fps; 180° shutter (~1/48);
+* ISO native; WB 5600K (match windows) or custom;
+* Picture profile: neutral/log (if you can grade consistently).
+* Slate: `Scene 1, Shot 1A, Take 1` etc.
+
+---
+
+## 10) Risk & Accessibility Plan (Neurodivergent‑Friendly)
+
+* **Noise:** Keep set quiet; offer earplugs; record room tone separately.
+* **Lighting:** Avoid flicker; steady color temp; no harsh strobe.
+* **Crowding:** Minimal crew; clear walkways to prevent trip hazards.
+* **Props:** Use dull‑tipped pencils for safety; mark drop zone.
+* **Breaks:** Short, predictable breaks; quiet corner available.
+* **Sensory Notes:** Avoid strong perfumes; keep wardrobe fabrics non‑itchy.
+
+---
+
+## 11) Naming & Media Management
+
+**Card Labels:** `MIDTERM_A`, `MIDTERM_B`
+**Folders:** `A-CAM/SC1/1A/` etc.
+**File Names:** `SC1_1A_T01.mov`
+**Backup:** 3‑2‑1 (Primary SSD, Clone HDD, Cloud). Verify checksums.
+
+---
+
+## 12) Post‑Production Plan
+
+* **Ingest & Sync:** Same‑day ingest; note best takes from script notes.
+* **Assembly:** Follow shot order; choose best reaction beats.
+* **Cut Length:** ~00:60; keep pacing gentle; breathe on reactions.
+* **Sound:** Clean pencil drop; add subtle library bed; normalize peaks.
+* **Color:** Balance WB; gentle contrast; keep pink sweater chroma natural.
+* **Export:** 3840×2160 24p, ProRes LT / H.264 high; file `Quiet_Nerves_midterm_v1.mp4`.
+
+---
+
+## 13) Submission Checklist
+
+* [ ] Revised script PDF (≤2 pages)
+* [ ] 10–12 storyboard panels (PNG/PDF)
+* [ ] Shot list table (in this doc)
+* [ ] Overhead diagram PDF
+* [ ] Script breakdown (table or XLSX)
+* [ ] Schedule + Call sheet
+* [ ] Continuity log with refs
+* [ ] Gear list & settings
+* [ ] Risk & accessibility notes
+* [ ] Final packet exported as single PDF named `midterm-packet-mmvi-9a-video-production-fall2025.pdf`
+
+---
+
+### Instructor Notes (space for feedback)
+
+* *…*
+
+### Version History
+
+* **v1.0 — 2025‑10‑15:** Initial midterm packet scaffold with library scene blueprint.
